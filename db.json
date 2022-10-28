@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "username": "hasna",
+      "email": "dachhassna@gmail.com",
+      "firstName": "",
+      "lastName": "",
+      "password": "dach",
+      "firstname": "hassna",
+      "lastname": "dachraoui",
+      "id": 1
+    },
+    {
+      "username": "farah",
+      "email": "farah@gmailcom",
+      "firstName": "",
+      "lastName": "",
+      "password": "benoth",
+      "firstname": "farah",
+      "lastname": "ben othman",
+      "id": 2
+    },
+    {
+      "username": "lina",
+      "email": "l@gmail.com",
+      "firstName": "",
+      "lastName": "",
+      "password": "lina",
+      "firstname": "lina",
+      "lastname": "dach",
+      "id": 3
+    },
+    {
+      "username": "Lina Dach",
+      "email": "linadachraoui3@gmail.com",
+      "firstName": "",
+      "lastName": "",
+      "password": "lina",
+      "firstname": "dachraoui",
+      "lastname": "lina",
+      "id": 4
+    },
+    {
+      "username": "",
+      "email": "",
+      "firstName": "",
+      "lastName": "",
+      "id": 5
+    },
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "firstName": "",
+      "lastName": "",
+      "password": "admin",
+      "firstname": "hasn",
+      "lastname": "hsan",
+      "id": 6
+    },
+    {
+      "username": "lotfi",
+      "email": "lotfi@gmail.com",
+      "firstName": "",
+      "lastName": "",
+      "password": "hasna",
+      "firstname": "lotfi",
+      "lastname": "dachraoui",
+      "id": 7
+    },
+    {
+      "username": "Hassna Dachraoui",
+      "email": "dachhasssna@gmail.com",
+      "firstName": "",
+      "lastName": "",
+      "password": "hassna",
+      "firstname": "sousou",
+      "lastname": "dachh",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "title": "hassna",
+      "author": "dachra",
+      "id": 0.2598844541979277
+    },
+    {
+      "title": "lina ",
+      "author": "dach",
+      "id": 0.4942889324690509
+    }
+  ]
+}
